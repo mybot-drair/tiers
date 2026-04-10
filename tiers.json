@@ -1,3 +1,11 @@
 {
-  "players": []
+  "players": [
+    {
+      "username": "yrmog",
+      "discord_id": "1412075879252754604",
+      "tier": "Low Tier 3 Mace",
+      "tier_key": "lt3_mace",
+      "gamemode": "mace"
+    }
+  ]
 }
