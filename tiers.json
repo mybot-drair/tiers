@@ -6,6 +6,13 @@
       "tier": "Low Tier 3 Mace",
       "tier_key": "lt3_mace",
       "gamemode": "mace"
+    },
+    {
+      "username": "evano09",
+      "discord_id": "1091752610597449828",
+      "tier": "High Tier 5 Mace",
+      "tier_key": "ht5_mace",
+      "gamemode": "mace"
     }
   ]
 }
