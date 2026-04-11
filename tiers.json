@@ -95,6 +95,20 @@
         }
       },
       "total_points": 4
+    },
+    {
+      "username": "321revive",
+      "discord_id": "1268000099628351489",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 4
     }
   ]
 }
