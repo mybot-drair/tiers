@@ -33,6 +33,38 @@
       "total_points": 22
     },
     {
+      "username": "_ItzRealKittyhap",
+      "discord_id": "1461049612260610090",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        },
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        },
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 18
+    },
+    {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
       "region": "EU",
@@ -80,32 +112,6 @@
           "tier_key": "lt3_crystal",
           "level": "lt3",
           "points": 6
-        }
-      },
-      "total_points": 12
-    },
-    {
-      "username": "_ItzRealKittyhap",
-      "discord_id": "1461049612260610090",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        },
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
         }
       },
       "total_points": 12
