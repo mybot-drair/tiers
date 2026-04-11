@@ -349,6 +349,20 @@
         }
       },
       "total_points": 3
+    },
+    {
+      "username": "alexbpz",
+      "discord_id": "1125500017742991481",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "High Tier 5 Sword",
+          "tier_key": "ht5_sword",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 2
     }
   ]
 }
