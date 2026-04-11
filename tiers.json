@@ -349,6 +349,20 @@
       "total_points": 6
     },
     {
+      "username": "rickyronn",
+      "discord_id": "1330315012627103775",
+      "region": "NA",
+      "tiers": {
+        "sword": {
+          "display": "High Tier 4 Sword",
+          "tier_key": "ht4_sword",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 4
+    },
+    {
       "username": "StreetNinjaLumen",
       "discord_id": "1200845782195109952",
       "region": "EU",
