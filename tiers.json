@@ -198,9 +198,15 @@
           "tier_key": "ht4_smp",
           "level": "ht4",
           "points": 4
+        },
+        "crystal": {
+          "display": "Low Tier 4 Crystal",
+          "tier_key": "lt4_crystal",
+          "level": "lt4",
+          "points": 3
         }
       },
-      "total_points": 7
+      "total_points": 10
     },
     {
       "username": "b47s",
