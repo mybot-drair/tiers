@@ -173,6 +173,20 @@
       "total_points": 7
     },
     {
+      "username": "LemonIsFat",
+      "discord_id": "1470834507367190612",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "b47s",
       "discord_id": "1451387900670382091",
       "region": "EU",
