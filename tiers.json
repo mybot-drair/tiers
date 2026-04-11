@@ -1,6 +1,44 @@
 {
   "players": [
     {
+      "username": "yrmog",
+      "discord_id": "1412075879252754604",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 3 Mace",
+          "tier_key": "ht3_mace",
+          "level": "ht3",
+          "points": 10
+        },
+        "crystal": {
+          "display": "Low Tier 3 Crystal",
+          "tier_key": "lt3_crystal",
+          "level": "lt3",
+          "points": 6
+        },
+        "sword": {
+          "display": "High Tier 4 Sword",
+          "tier_key": "ht4_sword",
+          "level": "ht4",
+          "points": 4
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 28
+    },
+    {
       "username": "_ItzRealKittyhap",
       "discord_id": "1461049612260610090",
       "region": "EU",
@@ -37,38 +75,6 @@
         }
       },
       "total_points": 24
-    },
-    {
-      "username": "yrmog",
-      "discord_id": "1412075879252754604",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 3 Mace",
-          "tier_key": "ht3_mace",
-          "level": "ht3",
-          "points": 10
-        },
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        },
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 22
     },
     {
       "username": "Lucentlime",
@@ -233,6 +239,20 @@
       "total_points": 10
     },
     {
+      "username": "new_note",
+      "discord_id": "918035630334824511",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "High Tier 3 Crystal",
+          "tier_key": "ht3_crystal",
+          "level": "ht3",
+          "points": 10
+        }
+      },
+      "total_points": 10
+    },
+    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
@@ -308,20 +328,6 @@
         "sword": {
           "display": "Low Tier 3 Sword",
           "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
-    },
-    {
-      "username": "new_note",
-      "discord_id": "918035630334824511",
-      "region": "EU",
-      "tiers": {
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
           "level": "lt3",
           "points": 6
         }
