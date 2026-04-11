@@ -121,6 +121,26 @@
       "total_points": 10
     },
     {
+      "username": "Lucentlime",
+      "discord_id": "1247398062629060640",
+      "region": "NA",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        },
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 7
+    },
+    {
       "username": "b47s",
       "discord_id": "1451387900670382091",
       "region": "EU",
@@ -194,20 +214,6 @@
       "username": "StreetNinjaLumen",
       "discord_id": "1200845782195109952",
       "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 3
-    },
-    {
-      "username": "Lucentlime",
-      "discord_id": "1247398062629060640",
-      "region": "NA",
       "tiers": {
         "mace": {
           "display": "Low Tier 4 Mace",
