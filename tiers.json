@@ -22,9 +22,15 @@
           "tier_key": "ht4_sword",
           "level": "ht4",
           "points": 4
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
         }
       },
-      "total_points": 20
+      "total_points": 22
     },
     {
       "username": "evano09",
