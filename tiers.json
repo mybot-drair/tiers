@@ -355,6 +355,20 @@
       "total_points": 6
     },
     {
+      "username": "SL1CKM",
+      "discord_id": "1079352038955167754",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "rickyronn",
       "discord_id": "1330315012627103775",
       "region": "NA",
