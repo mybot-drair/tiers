@@ -55,6 +55,20 @@
       "total_points": 6
     },
     {
+      "username": "_Kittyhap_",
+      "discord_id": "1461049612260610090",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "ulnafr",
       "discord_id": "1084412771896147989",
       "region": "EU",
