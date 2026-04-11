@@ -197,6 +197,20 @@
       "total_points": 4
     },
     {
+      "username": "straighteah",
+      "discord_id": "1287172259223572512",
+      "region": "NA",
+      "tiers": {
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 4
+    },
+    {
       "username": "Twibs_",
       "discord_id": "1284595043105247252",
       "region": "NA",
