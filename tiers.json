@@ -97,6 +97,38 @@
       "total_points": 16
     },
     {
+      "username": "Lucentlime",
+      "discord_id": "1247398062629060640",
+      "region": "NA",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        },
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        },
+        "crystal": {
+          "display": "Low Tier 4 Crystal",
+          "tier_key": "lt4_crystal",
+          "level": "lt4",
+          "points": 3
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 16
+    },
+    {
       "username": "ulnafr",
       "discord_id": "1084412771896147989",
       "region": "EU",
@@ -210,32 +242,6 @@
           "tier_key": "ht3_smp",
           "level": "ht3",
           "points": 10
-        }
-      },
-      "total_points": 10
-    },
-    {
-      "username": "Lucentlime",
-      "discord_id": "1247398062629060640",
-      "region": "NA",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "crystal": {
-          "display": "Low Tier 4 Crystal",
-          "tier_key": "lt4_crystal",
-          "level": "lt4",
-          "points": 3
         }
       },
       "total_points": 10
