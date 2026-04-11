@@ -59,6 +59,26 @@
       "total_points": 16
     },
     {
+      "username": "LemonIsFat",
+      "discord_id": "1470834507367190612",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        },
+        "crystal": {
+          "display": "Low Tier 3 Crystal",
+          "tier_key": "lt3_crystal",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 12
+    },
+    {
       "username": "_ItzRealKittyhap",
       "discord_id": "1461049612260610090",
       "region": "EU",
@@ -171,20 +191,6 @@
         }
       },
       "total_points": 7
-    },
-    {
-      "username": "LemonIsFat",
-      "discord_id": "1470834507367190612",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
     },
     {
       "username": "b47s",
