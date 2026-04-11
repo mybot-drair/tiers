@@ -16,9 +16,15 @@
           "tier_key": "lt3_crystal",
           "level": "lt3",
           "points": 6
+        },
+        "sword": {
+          "display": "High Tier 4 Sword",
+          "tier_key": "ht4_sword",
+          "level": "ht4",
+          "points": 4
         }
       },
-      "total_points": 16
+      "total_points": 20
     },
     {
       "username": "evano09",
