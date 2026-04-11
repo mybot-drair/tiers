@@ -60,9 +60,15 @@
           "tier_key": "lt3_mace",
           "level": "lt3",
           "points": 6
+        },
+        "crystal": {
+          "display": "High Tier 5 Crystal",
+          "tier_key": "ht5_crystal",
+          "level": "ht5",
+          "points": 2
         }
       },
-      "total_points": 18
+      "total_points": 20
     },
     {
       "username": "LemonIsFat",
