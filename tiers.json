@@ -366,9 +366,15 @@
           "tier_key": "ht5_sword",
           "level": "ht5",
           "points": 2
+        },
+        "mace": {
+          "display": "Low Tier 5 Mace",
+          "tier_key": "lt5_mace",
+          "level": "lt5",
+          "points": 1
         }
       },
-      "total_points": 2
+      "total_points": 3
     }
   ]
 }
