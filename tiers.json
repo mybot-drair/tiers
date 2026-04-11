@@ -132,9 +132,15 @@
           "tier_key": "lt3_smp",
           "level": "lt3",
           "points": 6
+        },
+        "crystal": {
+          "display": "Low Tier 5 Crystal",
+          "tier_key": "lt5_crystal",
+          "level": "lt5",
+          "points": 1
         }
       },
-      "total_points": 10
+      "total_points": 11
     },
     {
       "username": "321revive",
