@@ -123,6 +123,20 @@
         }
       },
       "total_points": 4
+    },
+    {
+      "username": "Twibs_",
+      "discord_id": "1284595043105247252",
+      "region": "NA",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 4 SMP",
+          "tier_key": "lt4_smp",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 3
     }
   ]
 }
