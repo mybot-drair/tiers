@@ -152,10 +152,10 @@
       "region": "EU",
       "tiers": {
         "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
+          "display": "High Tier 3 Sword",
+          "tier_key": "ht3_sword",
+          "level": "ht3",
+          "points": 10
         },
         "crystal": {
           "display": "Low Tier 3 Crystal",
@@ -170,7 +170,7 @@
           "points": 4
         }
       },
-      "total_points": 16
+      "total_points": 20
     },
     {
       "username": "ulnafr",
