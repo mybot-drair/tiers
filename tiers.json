@@ -73,6 +73,26 @@
       "total_points": 12
     },
     {
+      "username": "ulnafr",
+      "discord_id": "1084412771896147989",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "High Tier 4 Sword",
+          "tier_key": "ht4_sword",
+          "level": "ht4",
+          "points": 4
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 10
+    },
+    {
       "username": "new_note",
       "discord_id": "918035630334824511",
       "region": "EU",
@@ -181,20 +201,6 @@
         }
       },
       "total_points": 6
-    },
-    {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 4
     },
     {
       "username": "straighteah",
