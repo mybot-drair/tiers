@@ -303,6 +303,20 @@
       "total_points": 6
     },
     {
+      "username": "ItzDanielGT",
+      "discord_id": "1337991464566653038",
+      "region": "NA",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "straighteah",
       "discord_id": "1287172259223572512",
       "region": "NA",
