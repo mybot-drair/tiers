@@ -257,6 +257,26 @@
       "total_points": 12
     },
     {
+      "username": "SirCruddy",
+      "discord_id": "980407529592987708",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 12
+    },
+    {
       "username": "b47s",
       "discord_id": "1451387900670382091",
       "region": "EU",
@@ -400,20 +420,6 @@
         "sword": {
           "display": "Low Tier 3 Sword",
           "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
-    },
-    {
-      "username": "SirCruddy",
-      "discord_id": "980407529592987708",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
           "level": "lt3",
           "points": 6
         }
