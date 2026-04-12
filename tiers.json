@@ -164,10 +164,10 @@
           "points": 10
         },
         "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
         },
         "mace": {
           "display": "High Tier 4 Mace",
@@ -176,7 +176,7 @@
           "points": 4
         }
       },
-      "total_points": 20
+      "total_points": 18
     },
     {
       "username": "ulnafr",
