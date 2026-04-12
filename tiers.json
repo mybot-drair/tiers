@@ -117,6 +117,32 @@
       "total_points": 15
     },
     {
+      "username": "SirCruddy",
+      "discord_id": "980407529592987708",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "crystal": {
+          "display": "High Tier 5 Crystal",
+          "tier_key": "ht5_crystal",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 14
+    },
+    {
       "username": "Twibs_",
       "discord_id": "1284595043105247252",
       "region": "NA",
@@ -136,26 +162,6 @@
         "uhc": {
           "display": "Low Tier 3 UHC",
           "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 12
-    },
-    {
-      "username": "SirCruddy",
-      "discord_id": "980407529592987708",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
           "level": "lt3",
           "points": 6
         }
