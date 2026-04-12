@@ -1,420 +1,384 @@
-{
-  "players": [
-    {
-      "username": "Yrmog",
-      "discord_id": "1412075879252754604",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 3 Mace",
-          "tier_key": "ht3_mace",
-          "level": "ht3",
-          "points": 10
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "crystal": {
-          "display": "Low Tier 4 Crystal",
-          "tier_key": "lt4_crystal",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 21
+[
+  {
+    "username": "LemonIsFat",
+    "discord_id": null,
+    "region": "EU",
+    "server": "pvpclub",
+    "tiers": {
+      "mace": "ht4_mace"
     },
-    {
-      "username": "Lucentlime",
-      "discord_id": "1247398062629060640",
-      "region": "NA",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        },
-        "axe": {
-          "display": "Low Tier 3 Axe",
-          "tier_key": "lt3_axe",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 19
+    "tickets": []
+  },
+  {
+    "username": "Yrmog",
+    "discord_id": 1412075879252754604,
+    "region": "EU",
+    "server": "smp",
+    "tiers": {
+      "mace": "ht3_mace",
+      "uhc": "ht5_uhc",
+      "smp": "lt3_smp",
+      "crystal": "lt4_crystal"
     },
-    {
-      "username": "_ItzRealKittyhap",
-      "discord_id": "1461049612260610090",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        },
-        "mace": {
-          "display": "High Tier 3 Mace",
-          "tier_key": "ht3_mace",
-          "level": "ht3",
-          "points": 10
-        }
-      },
-      "total_points": 16
+    "tickets": []
+  },
+  {
+    "username": "Lurkkiz_",
+    "discord_id": 1271171679854399502,
+    "region": "EU",
+    "server": "pvphub.net",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "ulnafr",
+    "discord_id": 1084412771896147989,
+    "region": "EU",
+    "server": "flowpvp",
+    "tiers": {
+      "smp": "lt3_smp",
+      "mace": "lt5_mace"
     },
-    {
-      "username": "new_note",
-      "discord_id": "918035630334824511",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 15
+    "tickets": []
+  },
+  {
+    "username": "rickyronn",
+    "discord_id": 1330315012627103775,
+    "region": "NA",
+    "server": "Minemen",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "evano09",
+    "discord_id": 1091752610597449828,
+    "region": "EU",
+    "server": "applepvp",
+    "tiers": {
+      "mace": "lt5_mace"
     },
-    {
-      "username": "SirCruddy",
-      "discord_id": "980407529592987708",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "crystal": {
-          "display": "High Tier 5 Crystal",
-          "tier_key": "ht5_crystal",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 14
+    "tickets": []
+  },
+  {
+    "username": "b47s",
+    "discord_id": 1451387900670382091,
+    "region": "EU",
+    "server": "doesn't matter",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "azatas_",
+    "discord_id": 741969627600388168,
+    "region": "EU",
+    "server": "mcprac.net",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "Nightanto",
+    "discord_id": 957615090646024192,
+    "region": "EU",
+    "server": "Flow",
+    "tiers": {
+      "smp": "lt3_smp"
     },
-    {
-      "username": "Twibs_",
-      "discord_id": "1284595043105247252",
-      "region": "NA",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 4 SMP",
-          "tier_key": "lt4_smp",
-          "level": "lt4",
-          "points": 3
-        },
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 12
+    "tickets": []
+  },
+  {
+    "username": "_ItzRealKittyhap",
+    "discord_id": 1461049612260610090,
+    "region": "EU",
+    "server": "pvpclub",
+    "tiers": {
+      "smp": "ht4_smp",
+      "uhc": "ht5_uhc",
+      "mace": "ht3_mace"
     },
-    {
-      "username": "321revive",
-      "discord_id": "1268000099628351489",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 10
+    "tickets": []
+  },
+  {
+    "username": "Belacriss",
+    "discord_id": 706593570223685673,
+    "region": "EU",
+    "server": "pvpclub",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "b47s",
+    "discord_id": 1466888224470208788,
+    "region": "EU",
+    "server": "mcpvp",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "FauliBauli",
+    "discord_id": 892431396369465404,
+    "region": "EU",
+    "server": "club",
+    "tiers": {
+      "smp": "lt3_smp",
+      "crystal": "lt5_crystal"
     },
-    {
-      "username": "vintagers",
-      "discord_id": "975988942342082591",
-      "region": "AU/AS",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 3 SMP",
-          "tier_key": "ht3_smp",
-          "level": "ht3",
-          "points": 10
-        }
-      },
-      "total_points": 10
+    "tickets": []
+  },
+  {
+    "username": "new_note",
+    "discord_id": 918035630334824511,
+    "region": "EU",
+    "server": "mcpvp",
+    "tiers": {
+      "mace": "lt4_mace",
+      "smp": "lt3_smp",
+      "crystal": "lt3_crystal"
     },
-    {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
-        }
-      },
-      "total_points": 7
+    "tickets": []
+  },
+  {
+    "username": "321revive",
+    "discord_id": 1268000099628351489,
+    "region": "EU",
+    "server": "Club",
+    "tiers": {
+      "smp": "ht4_smp",
+      "uhc": "lt3_uhc"
     },
-    {
-      "username": "FauliBauli",
-      "discord_id": "892431396369465404",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "crystal": {
-          "display": "Low Tier 5 Crystal",
-          "tier_key": "lt5_crystal",
-          "level": "lt5",
-          "points": 1
-        }
-      },
-      "total_points": 7
+    "tickets": []
+  },
+  {
+    "username": "Twibs_",
+    "discord_id": 1284595043105247252,
+    "region": "NA",
+    "server": "pvpclub",
+    "tiers": {
+      "smp": "lt4_smp",
+      "mace": "lt4_mace",
+      "uhc": "lt3_uhc"
     },
-    {
-      "username": "straighteah",
-      "discord_id": "1287172259223572512",
-      "region": "NA",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 7
+    "tickets": []
+  },
+  {
+    "username": "vintagers",
+    "discord_id": 975988942342082591,
+    "region": "AU/AS",
+    "server": "minemen",
+    "tiers": {
+      "smp": "ht3_smp"
     },
-    {
-      "username": "Nightanto",
-      "discord_id": "957615090646024192",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
+    "tickets": []
+  },
+  {
+    "username": "StreetNinjaLumen",
+    "discord_id": 1200845782195109952,
+    "region": "EU",
+    "server": "Flowpvp",
+    "tiers": {
+      "mace": "lt4_mace"
     },
-    {
-      "username": "NexussNew",
-      "discord_id": "1181323273452126228",
-      "region": "EU",
-      "tiers": {
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
+    "tickets": []
+  },
+  {
+    "username": "Lucentlime",
+    "discord_id": 1247398062629060640,
+    "region": "NA",
+    "server": "mcpvp",
+    "tiers": {
+      "mace": "lt4_mace",
+      "smp": "ht4_smp",
+      "uhc": "lt3_uhc",
+      "axe": "lt3_axe"
     },
-    {
-      "username": "ItzDanielGT",
-      "discord_id": "1337991464566653038",
-      "region": "NA",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
+    "tickets": []
+  },
+  {
+    "username": "SpideyMC_",
+    "discord_id": 1158613868982042625,
+    "region": "NA",
+    "server": "catpvp",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "NexussNew",
+    "discord_id": 1181323273452126228,
+    "region": "EU",
+    "server": "any",
+    "tiers": {
+      "crystal": "lt3_crystal",
+      "smp": "lt3_smp"
     },
-    {
-      "username": "darknezzri",
-      "discord_id": "1358829962739585336",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
+    "tickets": []
+  },
+  {
+    "username": "ninorc16",
+    "discord_id": 1491442359970566266,
+    "region": "EU",
+    "server": "any ig!",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "straighteah",
+    "discord_id": 1287172259223572512,
+    "region": "NA",
+    "server": "any",
+    "tiers": {
+      "smp": "ht4_smp",
+      "mace": "lt4_mace"
     },
-    {
-      "username": "SL1CKM",
-      "discord_id": "1079352038955167754",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
+    "tickets": []
+  },
+  {
+    "username": "ItzDanielGT",
+    "discord_id": 1337991464566653038,
+    "region": "NA",
+    "server": "cat or club",
+    "tiers": {
+      "mace": "lt3_mace"
     },
-    {
-      "username": "LemonIsFat",
-      "discord_id": "1470834507367190612",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 4
+    "tickets": []
+  },
+  {
+    "username": "avapxoc",
+    "discord_id": 1488274577015570503,
+    "region": "NA",
+    "server": "cat",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "superoive",
+    "discord_id": 1233175306827993139,
+    "region": "EU",
+    "server": "pvpclub",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "alexbpz",
+    "discord_id": 1125500017742991481,
+    "region": "EU",
+    "server": "mcpvp.club",
+    "tiers": {
+      "mace": "lt5_mace"
     },
-    {
-      "username": "StreetNinjaLumen",
-      "discord_id": "1200845782195109952",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 3
+    "tickets": []
+  },
+  {
+    "username": "Japroyale",
+    "discord_id": 784462030690189333,
+    "region": "EU",
+    "server": "wtv",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "darknezzri",
+    "discord_id": 1358829962739585336,
+    "region": "EU",
+    "server": "club",
+    "tiers": {
+      "mace": "lt3_mace"
     },
-    {
-      "username": "ARt0x_",
-      "discord_id": "1104455293930319872",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 3
+    "tickets": []
+  },
+  {
+    "username": "SL1CKM",
+    "discord_id": 1079352038955167754,
+    "region": "EU",
+    "server": "MineMen",
+    "tiers": {
+      "sword": "lt3_sword"
     },
-    {
-      "username": "Zyrqun",
-      "discord_id": "1478123632466329703",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 5 Mace",
-          "tier_key": "ht5_mace",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 2
+    "tickets": []
+  },
+  {
+    "username": "scandumb",
+    "discord_id": 1382002841354371213,
+    "region": "NA",
+    "server": "minemen",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "ARt0x_",
+    "discord_id": 1104455293930319872,
+    "region": "EU",
+    "server": "Catpvp",
+    "tiers": {
+      "mace": "lt4_mace"
     },
-    {
-      "username": "evano09",
-      "discord_id": "1091752610597449828",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
-        }
-      },
-      "total_points": 1
+    "tickets": []
+  },
+  {
+    "username": "Zyrqun",
+    "discord_id": 1478123632466329703,
+    "region": "EU",
+    "server": "any",
+    "tiers": {
+      "mace": "ht5_mace"
     },
-    {
-      "username": "alexbpz",
-      "discord_id": "1125500017742991481",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
-        }
+    "tickets": []
+  },
+  {
+    "username": "SirCruddy",
+    "discord_id": 980407529592987708,
+    "region": "EU",
+    "server": "mcpvp.club",
+    "tiers": {
+      "mace": "lt3_mace",
+      "smp": "lt3_smp",
+      "crystal": "ht5_crystal"
+    },
+    "tickets": []
+  },
+  {
+    "username": "lucianolyx",
+    "discord_id": 1230222423362637825,
+    "region": null,
+    "server": null,
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "liability64",
+    "discord_id": 1342967900587294852,
+    "region": "NA",
+    "server": "any",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "trace0",
+    "discord_id": 1174398988926058568,
+    "region": "EU",
+    "server": "catpvp",
+    "tiers": {},
+    "tickets": []
+  },
+  {
+    "username": "Tagsa",
+    "discord_id": 1355905588281999422,
+    "region": "EU",
+    "server": "eu.mcpvp.club",
+    "tiers": {
+      "crystal": "ht3_crystal"
+    },
+    "tickets": [
+      {
+        "gamemode": "crystal",
+        "result": "pass",
+        "tester": "lorin",
+        "timestamp": "2026-04-12T14:34:33.788690"
       },
-      "total_points": 1
-    }
-  ]
-}
+      {
+        "gamemode": "crystal",
+        "result": "pass",
+        "tester": "lorin",
+        "timestamp": "2026-04-12T14:34:48.961254"
+      }
+    ]
+  }
+]
