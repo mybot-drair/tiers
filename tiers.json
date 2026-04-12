@@ -257,6 +257,34 @@
       "total_points": 6
     },
     {
+      "username": "FauliBauli",
+      "discord_id": "892431396369465404",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
+      "username": "NexussNew",
+      "discord_id": "1181323273452126228",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "Low Tier 3 Crystal",
+          "tier_key": "lt3_crystal",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "ItzDanielGT",
       "discord_id": "1337991464566653038",
       "region": "NA",
