@@ -373,6 +373,20 @@
       "total_points": 6
     },
     {
+      "username": "liability64",
+      "discord_id": "1342967900587294852",
+      "region": "NA",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
       "region": "EU",
