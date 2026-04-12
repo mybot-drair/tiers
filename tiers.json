@@ -29,12 +29,6 @@
           "level": "lt3",
           "points": 6
         },
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        },
         "axe": {
           "display": "Low Tier 3 Axe",
           "tier_key": "lt3_axe",
@@ -42,7 +36,7 @@
           "points": 6
         }
       },
-      "total_points": 28
+      "total_points": 22
     },
     {
       "username": "Yrmog",
@@ -61,12 +55,6 @@
           "level": "lt4",
           "points": 3
         },
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        },
         "uhc": {
           "display": "High Tier 5 UHC",
           "tier_key": "ht5_uhc",
@@ -80,51 +68,13 @@
           "points": 6
         }
       },
-      "total_points": 27
-    },
-    {
-      "username": "new_note",
-      "discord_id": "918035630334824511",
-      "region": "EU",
-      "tiers": {
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        },
-        "sword": {
-          "display": "High Tier 3 Sword",
-          "tier_key": "ht3_sword",
-          "level": "ht3",
-          "points": 10
-        },
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 25
+      "total_points": 21
     },
     {
       "username": "_ItzRealKittyhap",
       "discord_id": "1461049612260610090",
       "region": "EU",
       "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        },
         "smp": {
           "display": "High Tier 4 SMP",
           "tier_key": "ht4_smp",
@@ -150,65 +100,33 @@
           "points": 2
         }
       },
-      "total_points": 24
-    },
-    {
-      "username": "LemonIsFat",
-      "discord_id": "1470834507367190612",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 3 Sword",
-          "tier_key": "ht3_sword",
-          "level": "ht3",
-          "points": 10
-        },
-        "crystal": {
-          "display": "High Tier 4 Crystal",
-          "tier_key": "ht4_crystal",
-          "level": "ht4",
-          "points": 4
-        },
-        "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        }
-      },
       "total_points": 18
     },
     {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
+      "username": "new_note",
+      "discord_id": "918035630334824511",
       "region": "EU",
       "tiers": {
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
+        "crystal": {
+          "display": "Low Tier 3 Crystal",
+          "tier_key": "lt3_crystal",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
         },
         "smp": {
           "display": "Low Tier 3 SMP",
           "tier_key": "lt3_smp",
           "level": "lt3",
           "points": 6
-        },
-        "crystal": {
-          "display": "Low Tier 5 Crystal",
-          "tier_key": "lt5_crystal",
-          "level": "lt5",
-          "points": 1
-        },
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
         }
       },
-      "total_points": 12
+      "total_points": 15
     },
     {
       "username": "Twibs_",
@@ -277,20 +195,6 @@
       "total_points": 12
     },
     {
-      "username": "b47s",
-      "discord_id": "1451387900670382091",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 3 Sword",
-          "tier_key": "ht3_sword",
-          "level": "ht3",
-          "points": 10
-        }
-      },
-      "total_points": 10
-    },
-    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
@@ -325,6 +229,52 @@
       "total_points": 10
     },
     {
+      "username": "LemonIsFat",
+      "discord_id": "1470834507367190612",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
+        },
+        "mace": {
+          "display": "High Tier 4 Mace",
+          "tier_key": "ht4_mace",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 8
+    },
+    {
+      "username": "ulnafr",
+      "discord_id": "1084412771896147989",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "crystal": {
+          "display": "Low Tier 5 Crystal",
+          "tier_key": "lt5_crystal",
+          "level": "lt5",
+          "points": 1
+        },
+        "mace": {
+          "display": "Low Tier 5 Mace",
+          "tier_key": "lt5_mace",
+          "level": "lt5",
+          "points": 1
+        }
+      },
+      "total_points": 8
+    },
+    {
       "username": "straighteah",
       "discord_id": "1287172259223572512",
       "region": "NA",
@@ -345,32 +295,6 @@
       "total_points": 7
     },
     {
-      "username": "evano09",
-      "discord_id": "1091752610597449828",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
-        },
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
-        },
-        "crystal": {
-          "display": "Low Tier 5 Crystal",
-          "tier_key": "lt5_crystal",
-          "level": "lt5",
-          "points": 1
-        }
-      },
-      "total_points": 6
-    },
-    {
       "username": "Nightanto",
       "discord_id": "957615090646024192",
       "region": "EU",
@@ -378,20 +302,6 @@
         "smp": {
           "display": "Low Tier 3 SMP",
           "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
-    },
-    {
-      "username": "Belacriss",
-      "discord_id": "706593570223685673",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
           "level": "lt3",
           "points": 6
         }
@@ -413,48 +323,6 @@
       "total_points": 6
     },
     {
-      "username": "SL1CKM",
-      "discord_id": "1079352038955167754",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
-    },
-    {
-      "username": "rickyronn",
-      "discord_id": "1330315012627103775",
-      "region": "NA",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 4
-    },
-    {
-      "username": "scandumb",
-      "discord_id": "1382002841354371213",
-      "region": "NA",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 4 Sword",
-          "tier_key": "ht4_sword",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 4
-    },
-    {
       "username": "StreetNinjaLumen",
       "discord_id": "1200845782195109952",
       "region": "EU",
@@ -464,26 +332,6 @@
           "tier_key": "lt4_mace",
           "level": "lt4",
           "points": 3
-        }
-      },
-      "total_points": 3
-    },
-    {
-      "username": "alexbpz",
-      "discord_id": "1125500017742991481",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 5 Sword",
-          "tier_key": "ht5_sword",
-          "level": "ht5",
-          "points": 2
-        },
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
         }
       },
       "total_points": 3
@@ -503,6 +351,26 @@
       "total_points": 3
     },
     {
+      "username": "evano09",
+      "discord_id": "1091752610597449828",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 5 Mace",
+          "tier_key": "lt5_mace",
+          "level": "lt5",
+          "points": 1
+        },
+        "crystal": {
+          "display": "Low Tier 5 Crystal",
+          "tier_key": "lt5_crystal",
+          "level": "lt5",
+          "points": 1
+        }
+      },
+      "total_points": 2
+    },
+    {
       "username": "Zyrqun",
       "discord_id": "1478123632466329703",
       "region": "EU",
@@ -515,6 +383,20 @@
         }
       },
       "total_points": 2
+    },
+    {
+      "username": "alexbpz",
+      "discord_id": "1125500017742991481",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 5 Mace",
+          "tier_key": "lt5_mace",
+          "level": "lt5",
+          "points": 1
+        }
+      },
+      "total_points": 1
     }
   ]
 }
