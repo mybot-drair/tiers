@@ -91,6 +91,26 @@
       "total_points": 16
     },
     {
+      "username": "NexussNew",
+      "discord_id": "1181323273452126228",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "High Tier 3 Crystal",
+          "tier_key": "ht3_crystal",
+          "level": "ht3",
+          "points": 10
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 16
+    },
+    {
       "username": "new_note",
       "discord_id": "918035630334824511",
       "region": "EU",
@@ -162,26 +182,6 @@
         "uhc": {
           "display": "Low Tier 3 UHC",
           "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 12
-    },
-    {
-      "username": "NexussNew",
-      "discord_id": "1181323273452126228",
-      "region": "EU",
-      "tiers": {
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
           "level": "lt3",
           "points": 6
         }
