@@ -267,6 +267,32 @@
       "total_points": 12
     },
     {
+      "username": "ulnafr",
+      "discord_id": "1084412771896147989",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
+          "level": "ht5",
+          "points": 2
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 10
+    },
+    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
@@ -299,32 +325,6 @@
         }
       },
       "total_points": 10
-    },
-    {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 5 Mace",
-          "tier_key": "lt5_mace",
-          "level": "lt5",
-          "points": 1
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 9
     },
     {
       "username": "evano09",
