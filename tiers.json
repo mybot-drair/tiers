@@ -343,6 +343,26 @@
       "total_points": 12
     },
     {
+      "username": "Synxzi",
+      "discord_id": "1219276928289083444",
+      "region": "EU",
+      "tiers": {
+        "axe": {
+          "display": "Low Tier 3 Axe",
+          "tier_key": "lt3_axe",
+          "level": "lt3",
+          "points": 6
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 12
+    },
+    {
       "username": "tajko99",
       "discord_id": "829298897435492403",
       "region": "EU",
@@ -492,20 +512,6 @@
         "mace": {
           "display": "Low Tier 3 Mace",
           "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6
-    },
-    {
-      "username": "Synxzi",
-      "discord_id": "1219276928289083444",
-      "region": "EU",
-      "tiers": {
-        "axe": {
-          "display": "Low Tier 3 Axe",
-          "tier_key": "lt3_axe",
           "level": "lt3",
           "points": 6
         }
