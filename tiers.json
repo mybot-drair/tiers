@@ -207,6 +207,38 @@
       "total_points": 16
     },
     {
+      "username": "ulnafr",
+      "discord_id": "1084412771896147989",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
+          "level": "ht5",
+          "points": 2
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        },
+        "axe": {
+          "display": "Low Tier 4 Axe",
+          "tier_key": "lt4_axe",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 13
+    },
+    {
       "username": "FauliBauli",
       "discord_id": "892431396369465404",
       "region": "EU",
@@ -323,32 +355,6 @@
         }
       },
       "total_points": 11
-    },
-    {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "High Tier 5 Mace",
-          "tier_key": "ht5_mace",
-          "level": "ht5",
-          "points": 2
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 10
     },
     {
       "username": "Tagsa",
