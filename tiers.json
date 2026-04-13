@@ -18,10 +18,10 @@
           "points": 6
         },
         "crystal": {
-          "display": "High Tier 5 Crystal",
-          "tier_key": "ht5_crystal",
-          "level": "ht5",
-          "points": 2
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
         },
         "uhc": {
           "display": "Low Tier 3 UHC",
@@ -30,7 +30,7 @@
           "points": 6
         }
       },
-      "total_points": 34
+      "total_points": 36
     },
     {
       "username": "new_note",
