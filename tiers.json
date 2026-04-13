@@ -290,9 +290,15 @@
           "tier_key": "lt5_mace",
           "level": "lt5",
           "points": 1
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
         }
       },
-      "total_points": 7
+      "total_points": 9
     },
     {
       "username": "evano09",
