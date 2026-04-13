@@ -123,6 +123,38 @@
       "total_points": 20
     },
     {
+      "username": "321revive",
+      "discord_id": "1268000099628351489",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        },
+        "axe": {
+          "display": "Low Tier 3 Axe",
+          "tier_key": "lt3_axe",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 19
+    },
+    {
       "username": "Lucentlime",
       "discord_id": "1247398062629060640",
       "region": "NA",
@@ -217,32 +249,6 @@
         }
       },
       "total_points": 17
-    },
-    {
-      "username": "321revive",
-      "discord_id": "1268000099628351489",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        },
-        "axe": {
-          "display": "Low Tier 3 Axe",
-          "tier_key": "lt3_axe",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 16
     },
     {
       "username": "FauliBauli",
