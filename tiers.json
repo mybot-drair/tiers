@@ -175,6 +175,32 @@
       "total_points": 16
     },
     {
+      "username": "FauliBauli",
+      "discord_id": "892431396369465404",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "crystal": {
+          "display": "Low Tier 5 Crystal",
+          "tier_key": "lt5_crystal",
+          "level": "lt5",
+          "points": 1
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 13
+    },
+    {
       "username": "Twibs_",
       "discord_id": "1284595043105247252",
       "region": "NA",
@@ -284,26 +310,6 @@
           "tier_key": "lt3_crystal",
           "level": "lt3",
           "points": 6
-        }
-      },
-      "total_points": 7
-    },
-    {
-      "username": "FauliBauli",
-      "discord_id": "892431396369465404",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "crystal": {
-          "display": "Low Tier 5 Crystal",
-          "tier_key": "lt5_crystal",
-          "level": "lt5",
-          "points": 1
         }
       },
       "total_points": 7
