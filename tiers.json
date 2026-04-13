@@ -181,6 +181,32 @@
       "total_points": 18
     },
     {
+      "username": "321revive",
+      "discord_id": "1268000099628351489",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "High Tier 4 SMP",
+          "tier_key": "ht4_smp",
+          "level": "ht4",
+          "points": 4
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        },
+        "axe": {
+          "display": "Low Tier 3 Axe",
+          "tier_key": "lt3_axe",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 16
+    },
+    {
       "username": "FauliBauli",
       "discord_id": "892431396369465404",
       "region": "EU",
@@ -294,26 +320,6 @@
           "tier_key": "ht5_uhc",
           "level": "ht5",
           "points": 2
-        }
-      },
-      "total_points": 10
-    },
-    {
-      "username": "321revive",
-      "discord_id": "1268000099628351489",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
         }
       },
       "total_points": 10
