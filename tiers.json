@@ -485,6 +485,20 @@
       "total_points": 3
     },
     {
+      "username": "Catboymochi",
+      "discord_id": "726448089014993007",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "Low Tier 4 Crystal",
+          "tier_key": "lt4_crystal",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 3
+    },
+    {
       "username": "Zyrqun",
       "discord_id": "1478123632466329703",
       "region": "EU",
