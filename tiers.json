@@ -70,10 +70,10 @@
           "points": 10
         },
         "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
+          "display": "Low Tier 4 UHC",
+          "tier_key": "lt4_uhc",
+          "level": "lt4",
+          "points": 3
         },
         "smp": {
           "display": "Low Tier 3 SMP",
@@ -88,7 +88,7 @@
           "points": 3
         }
       },
-      "total_points": 21
+      "total_points": 22
     },
     {
       "username": "Lucentlime",
@@ -227,6 +227,26 @@
       "total_points": 12
     },
     {
+      "username": "vintagers",
+      "discord_id": "975988942342082591",
+      "region": "AU/AS",
+      "tiers": {
+        "smp": {
+          "display": "High Tier 3 SMP",
+          "tier_key": "ht3_smp",
+          "level": "ht3",
+          "points": 10
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 12
+    },
+    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
@@ -242,20 +262,6 @@
           "tier_key": "lt3_uhc",
           "level": "lt3",
           "points": 6
-        }
-      },
-      "total_points": 10
-    },
-    {
-      "username": "vintagers",
-      "discord_id": "975988942342082591",
-      "region": "AU/AS",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 3 SMP",
-          "tier_key": "ht3_smp",
-          "level": "ht3",
-          "points": 10
         }
       },
       "total_points": 10
@@ -413,6 +419,20 @@
     {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 4 Mace",
+          "tier_key": "ht4_mace",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 4
+    },
+    {
+      "username": "tajko99",
+      "discord_id": "829298897435492403",
       "region": "EU",
       "tiers": {
         "mace": {
