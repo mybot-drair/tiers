@@ -477,6 +477,20 @@
       "total_points": 6
     },
     {
+      "username": "superoive",
+      "discord_id": "1233175306827993139",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6
+    },
+    {
       "username": "darknezzri",
       "discord_id": "1358829962739585336",
       "region": "EU",
