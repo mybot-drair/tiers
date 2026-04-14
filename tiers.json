@@ -86,9 +86,15 @@
           "tier_key": "lt4_crystal",
           "level": "lt4",
           "points": 3
+        },
+        "nethpot": {
+          "display": "Low Tier 5 Nethpot",
+          "tier_key": "lt5_nethpot",
+          "level": "lt5",
+          "points": 1
         }
       },
-      "total_points": 22
+      "total_points": 23
     },
     {
       "username": "_ItzRealKittyhap",
