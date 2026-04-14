@@ -92,9 +92,15 @@
           "tier_key": "lt5_nethpot",
           "level": "lt5",
           "points": 1
+        },
+        "diapot": {
+          "display": "Low Tier 5 Diapot",
+          "tier_key": "lt5_diapot",
+          "level": "lt5",
+          "points": 1
         }
       },
-      "total_points": 23
+      "total_points": 24
     },
     {
       "username": "_ItzRealKittyhap",
