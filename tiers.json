@@ -168,10 +168,10 @@
       "region": "EU",
       "tiers": {
         "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
+          "display": "High Tier 3 SMP",
+          "tier_key": "ht3_smp",
+          "level": "ht3",
+          "points": 10
         },
         "crystal": {
           "display": "Low Tier 3 Crystal",
@@ -192,7 +192,7 @@
           "points": 6
         }
       },
-      "total_points": 24,
+      "total_points": 28,
       "retired": false
     },
     {
