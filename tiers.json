@@ -39,6 +39,44 @@
       "total_points": 40
     },
     {
+      "username": "Japroyale",
+      "discord_id": "784462030690189333",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "diapot": {
+          "display": "Low Tier 3 Diapot",
+          "tier_key": "lt3_diapot",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        },
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 30
+    },
+    {
       "username": "Yrmog",
       "discord_id": "1412075879252754604",
       "region": "EU",
@@ -186,38 +224,6 @@
           "tier_key": "lt4_diapot",
           "level": "lt4",
           "points": 3
-        }
-      },
-      "total_points": 24
-    },
-    {
-      "username": "Japroyale",
-      "discord_id": "784462030690189333",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "diapot": {
-          "display": "Low Tier 3 Diapot",
-          "tier_key": "lt3_diapot",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        },
-        "sword": {
-          "display": "Low Tier 3 Sword",
-          "tier_key": "lt3_sword",
-          "level": "lt3",
-          "points": 6
         }
       },
       "total_points": 24
