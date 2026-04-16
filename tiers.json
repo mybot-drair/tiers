@@ -34,9 +34,15 @@
           "tier_key": "ht4_diapot",
           "level": "ht4",
           "points": 4
+        },
+        "sword": {
+          "display": "Low Tier 4 Sword",
+          "tier_key": "lt4_sword",
+          "level": "lt4",
+          "points": 3
         }
       },
-      "total_points": 40
+      "total_points": 43
     },
     {
       "username": "Japroyale",
