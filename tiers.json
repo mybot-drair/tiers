@@ -363,6 +363,32 @@
       "total_points": 17
     },
     {
+      "username": "Dentz__",
+      "discord_id": "959161871410266163",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        },
+        "diapot": {
+          "display": "Low Tier 4 Diapot",
+          "tier_key": "lt4_diapot",
+          "level": "lt4",
+          "points": 3
+        },
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 15
+    },
+    {
       "username": "tajko99",
       "discord_id": "829298897435492403",
       "region": "EU",
@@ -493,26 +519,6 @@
         }
       },
       "total_points": 10
-    },
-    {
-      "username": "Dentz__",
-      "discord_id": "959161871410266163",
-      "region": "EU",
-      "tiers": {
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        },
-        "diapot": {
-          "display": "Low Tier 4 Diapot",
-          "tier_key": "lt4_diapot",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 9
     },
     {
       "username": "LemonIsFat",
