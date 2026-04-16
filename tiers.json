@@ -94,13 +94,13 @@
           "points": 1
         },
         "diapot": {
-          "display": "Low Tier 5 Diapot",
-          "tier_key": "lt5_diapot",
-          "level": "lt5",
-          "points": 1
+          "display": "Low Tier 4 Diapot",
+          "tier_key": "lt4_diapot",
+          "level": "lt4",
+          "points": 3
         }
       },
-      "total_points": 24
+      "total_points": 26
     },
     {
       "username": "FauliBauli",
