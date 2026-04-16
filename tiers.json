@@ -135,6 +135,38 @@
       "total_points": 24
     },
     {
+      "username": "Japroyale",
+      "discord_id": "784462030690189333",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "diapot": {
+          "display": "Low Tier 3 Diapot",
+          "tier_key": "lt3_diapot",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        },
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 24
+    },
+    {
       "username": "_ItzRealKittyhap",
       "discord_id": "1461049612260610090",
       "region": "EU",
@@ -252,32 +284,6 @@
           "tier_key": "ht5_mace",
           "level": "ht5",
           "points": 2
-        }
-      },
-      "total_points": 18
-    },
-    {
-      "username": "Japroyale",
-      "discord_id": "784462030690189333",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "diapot": {
-          "display": "Low Tier 3 Diapot",
-          "tier_key": "lt3_diapot",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
         }
       },
       "total_points": 18
