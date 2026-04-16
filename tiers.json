@@ -196,13 +196,13 @@
           "points": 3
         },
         "sword": {
-          "display": "Low Tier 4 Sword",
-          "tier_key": "lt4_sword",
-          "level": "lt4",
-          "points": 3
+          "display": "High Tier 5 Sword",
+          "tier_key": "ht5_sword",
+          "level": "ht5",
+          "points": 2
         }
       },
-      "total_points": 22
+      "total_points": 21
     },
     {
       "username": "_ItzRealKittyhap",
