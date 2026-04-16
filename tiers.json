@@ -28,9 +28,15 @@
           "tier_key": "lt3_uhc",
           "level": "lt3",
           "points": 6
+        },
+        "diapot": {
+          "display": "High Tier 4 Diapot",
+          "tier_key": "ht4_diapot",
+          "level": "ht4",
+          "points": 4
         }
       },
-      "total_points": 36
+      "total_points": 40
     },
     {
       "username": "Yrmog",
