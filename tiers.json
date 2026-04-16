@@ -43,7 +43,12 @@
         }
       },
       "total_points": 43,
-      "retired": false
+      "mace-retired": true,
+      "smp-retired": false,
+      "crystal-retired": false,
+      "uhc-retired": false,
+      "diapot-retired": false,
+      "sword-retired": false
     },
     {
       "username": "Japroyale",
@@ -82,7 +87,11 @@
         }
       },
       "total_points": 30,
-      "retired": false
+      "smp-retired": false,
+      "diapot-retired": false,
+      "mace-retired": false,
+      "sword-retired": false,
+      "uhc-retired": false
     },
     {
       "username": "new_note",
@@ -109,7 +118,9 @@
         }
       },
       "total_points": 29,
-      "retired": false
+      "mace-retired": false,
+      "smp-retired": false,
+      "crystal-retired": false
     },
     {
       "username": "Yrmog",
@@ -160,7 +171,13 @@
         }
       },
       "total_points": 28,
-      "retired": false
+      "mace-retired": false,
+      "uhc-retired": false,
+      "smp-retired": false,
+      "crystal-retired": false,
+      "nethpot-retired": false,
+      "diapot-retired": false,
+      "sword-retired": false
     },
     {
       "username": "FauliBauli",
@@ -193,7 +210,10 @@
         }
       },
       "total_points": 28,
-      "retired": false
+      "smp-retired": false,
+      "crystal-retired": false,
+      "uhc-retired": false,
+      "mace-retired": false
     },
     {
       "username": "321revive",
@@ -238,7 +258,12 @@
         }
       },
       "total_points": 24,
-      "retired": false
+      "smp-retired": false,
+      "uhc-retired": false,
+      "axe-retired": false,
+      "mace-retired": false,
+      "sword-retired": false,
+      "diapot-retired": false
     },
     {
       "username": "_ItzRealKittyhap",
@@ -271,7 +296,10 @@
         }
       },
       "total_points": 20,
-      "retired": false
+      "smp-retired": false,
+      "uhc-retired": false,
+      "mace-retired": false,
+      "axe-retired": false
     },
     {
       "username": "Lucentlime",
@@ -304,7 +332,10 @@
         }
       },
       "total_points": 19,
-      "retired": false
+      "mace-retired": false,
+      "smp-retired": false,
+      "uhc-retired": false,
+      "axe-retired": false
     },
     {
       "username": "NexussNew",
@@ -331,7 +362,9 @@
         }
       },
       "total_points": 18,
-      "retired": false
+      "crystal-retired": false,
+      "smp-retired": false,
+      "mace-retired": false
     },
     {
       "username": "ulnafr",
@@ -370,7 +403,11 @@
         }
       },
       "total_points": 17,
-      "retired": false
+      "smp-retired": false,
+      "mace-retired": false,
+      "uhc-retired": false,
+      "axe-retired": false,
+      "crystal-retired": false
     },
     {
       "username": "Dentz__",
@@ -397,7 +434,9 @@
         }
       },
       "total_points": 15,
-      "retired": false
+      "uhc-retired": false,
+      "diapot-retired": false,
+      "mace-retired": false
     },
     {
       "username": "tajko99",
@@ -430,7 +469,10 @@
         }
       },
       "total_points": 13,
-      "retired": false
+      "mace-retired": false,
+      "uhc-retired": false,
+      "crystal-retired": false,
+      "sword-retired": false
     },
     {
       "username": "Nightanto",
@@ -451,7 +493,8 @@
         }
       },
       "total_points": 12,
-      "retired": false
+      "smp-retired": false,
+      "mace-retired": false
     },
     {
       "username": "Twibs_",
@@ -478,7 +521,9 @@
         }
       },
       "total_points": 12,
-      "retired": false
+      "smp-retired": false,
+      "mace-retired": false,
+      "uhc-retired": false
     },
     {
       "username": "vintagers",
@@ -499,7 +544,8 @@
         }
       },
       "total_points": 12,
-      "retired": false
+      "smp-retired": false,
+      "uhc-retired": false
     },
     {
       "username": "Synxzi",
@@ -520,7 +566,8 @@
         }
       },
       "total_points": 12,
-      "retired": false
+      "axe-retired": false,
+      "uhc-retired": false
     },
     {
       "username": "Tagsa",
@@ -535,7 +582,7 @@
         }
       },
       "total_points": 10,
-      "retired": false
+      "crystal-retired": false
     },
     {
       "username": "LemonIsFat",
@@ -556,7 +603,8 @@
         }
       },
       "total_points": 7,
-      "retired": false
+      "mace-retired": false,
+      "smp-retired": false
     },
     {
       "username": "evano09",
@@ -577,7 +625,8 @@
         }
       },
       "total_points": 7,
-      "retired": false
+      "mace-retired": false,
+      "crystal-retired": false
     },
     {
       "username": "straighteah",
@@ -598,7 +647,8 @@
         }
       },
       "total_points": 7,
-      "retired": false
+      "smp-retired": false,
+      "mace-retired": false
     },
     {
       "username": "ItzDanielGT",
@@ -613,7 +663,7 @@
         }
       },
       "total_points": 6,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "superoive",
@@ -628,7 +678,7 @@
         }
       },
       "total_points": 6,
-      "retired": false
+      "smp-retired": false
     },
     {
       "username": "darknezzri",
@@ -643,7 +693,7 @@
         }
       },
       "total_points": 6,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "SL1CKM",
@@ -658,7 +708,7 @@
         }
       },
       "total_points": 6,
-      "retired": false
+      "sword-retired": false
     },
     {
       "username": "liability64",
@@ -673,7 +723,7 @@
         }
       },
       "total_points": 6,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "StreetNinjaLumen",
@@ -688,7 +738,7 @@
         }
       },
       "total_points": 3,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "ARt0x_",
@@ -703,7 +753,7 @@
         }
       },
       "total_points": 3,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "Catboymochi",
@@ -718,7 +768,7 @@
         }
       },
       "total_points": 3,
-      "retired": false
+      "crystal-retired": false
     },
     {
       "username": "Zyrqun",
@@ -733,7 +783,7 @@
         }
       },
       "total_points": 2,
-      "retired": false
+      "mace-retired": false
     },
     {
       "username": "alexbpz",
@@ -748,7 +798,7 @@
         }
       },
       "total_points": 1,
-      "retired": false
+      "mace-retired": false
     }
   ]
 }
