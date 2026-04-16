@@ -333,6 +333,38 @@
       "total_points": 17
     },
     {
+      "username": "tajko99",
+      "discord_id": "829298897435492403",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 4 Mace",
+          "tier_key": "ht4_mace",
+          "level": "ht4",
+          "points": 4
+        },
+        "uhc": {
+          "display": "Low Tier 4 UHC",
+          "tier_key": "lt4_uhc",
+          "level": "lt4",
+          "points": 3
+        },
+        "crystal": {
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
+        },
+        "sword": {
+          "display": "High Tier 5 Sword",
+          "tier_key": "ht5_sword",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 13
+    },
+    {
       "username": "Nightanto",
       "discord_id": "957615090646024192",
       "region": "EU",
@@ -417,32 +449,6 @@
         }
       },
       "total_points": 12
-    },
-    {
-      "username": "tajko99",
-      "discord_id": "829298897435492403",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 4 UHC",
-          "tier_key": "lt4_uhc",
-          "level": "lt4",
-          "points": 3
-        },
-        "crystal": {
-          "display": "High Tier 4 Crystal",
-          "tier_key": "ht4_crystal",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 11
     },
     {
       "username": "Tagsa",
