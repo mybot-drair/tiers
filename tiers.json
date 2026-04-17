@@ -11,12 +11,6 @@
           "level": "lt2",
           "points": 20
         },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
         "crystal": {
           "display": "High Tier 4 Crystal",
           "tier_key": "ht4_crystal",
@@ -42,9 +36,8 @@
           "points": 3
         }
       },
-      "total_points": 43,
+      "total_points": 37,
       "mace-retired": true,
-      "smp-retired": false,
       "crystal-retired": false,
       "uhc-retired": false,
       "diapot-retired": false,
@@ -55,12 +48,6 @@
       "discord_id": "784462030690189333",
       "region": "EU",
       "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
         "diapot": {
           "display": "Low Tier 3 Diapot",
           "tier_key": "lt3_diapot",
@@ -86,8 +73,7 @@
           "points": 6
         }
       },
-      "total_points": 30,
-      "smp-retired": false,
+      "total_points": 24,
       "diapot-retired": false,
       "mace-retired": false,
       "sword-retired": false,
@@ -104,12 +90,6 @@
           "level": "lt4",
           "points": 3
         },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
         "crystal": {
           "display": "Low Tier 2 Crystal",
           "tier_key": "lt2_crystal",
@@ -117,9 +97,8 @@
           "points": 20
         }
       },
-      "total_points": 29,
+      "total_points": 23,
       "mace-retired": false,
-      "smp-retired": false,
       "crystal-retired": false
     },
     {
@@ -138,12 +117,6 @@
           "tier_key": "ht5_uhc",
           "level": "ht5",
           "points": 2
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
         },
         "crystal": {
           "display": "Low Tier 4 Crystal",
@@ -170,62 +143,19 @@
           "points": 3
         }
       },
-      "total_points": 28,
+      "total_points": 22,
       "mace-retired": false,
       "uhc-retired": false,
-      "smp-retired": false,
       "crystal-retired": false,
       "nethpot-retired": false,
       "diapot-retired": false,
       "sword-retired": false
     },
     {
-      "username": "FauliBauli",
-      "discord_id": "892431396369465404",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 3 SMP",
-          "tier_key": "ht3_smp",
-          "level": "ht3",
-          "points": 10
-        },
-        "crystal": {
-          "display": "Low Tier 3 Crystal",
-          "tier_key": "lt3_crystal",
-          "level": "lt3",
-          "points": 6
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 28,
-      "smp-retired": false,
-      "crystal-retired": false,
-      "uhc-retired": false,
-      "mace-retired": false
-    },
-    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
       "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
         "uhc": {
           "display": "Low Tier 3 UHC",
           "tier_key": "lt3_uhc",
@@ -257,13 +187,41 @@
           "points": 3
         }
       },
-      "total_points": 24,
-      "smp-retired": false,
+      "total_points": 20,
       "uhc-retired": false,
       "axe-retired": false,
       "mace-retired": false,
       "sword-retired": false,
       "diapot-retired": false
+    },
+    {
+      "username": "FauliBauli",
+      "discord_id": "892431396369465404",
+      "region": "EU",
+      "tiers": {
+        "crystal": {
+          "display": "Low Tier 3 Crystal",
+          "tier_key": "lt3_crystal",
+          "level": "lt3",
+          "points": 6
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
+        },
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 18,
+      "crystal-retired": false,
+      "uhc-retired": false,
+      "mace-retired": false
     },
     {
       "username": "Lucentlime",
@@ -275,12 +233,6 @@
           "tier_key": "lt4_mace",
           "level": "lt4",
           "points": 3
-        },
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
         },
         "uhc": {
           "display": "Low Tier 3 UHC",
@@ -295,83 +247,10 @@
           "points": 6
         }
       },
-      "total_points": 19,
+      "total_points": 15,
       "mace-retired": false,
-      "smp-retired": false,
       "uhc-retired": false,
       "axe-retired": false
-    },
-    {
-      "username": "NexussNew",
-      "discord_id": "1181323273452126228",
-      "region": "EU",
-      "tiers": {
-        "crystal": {
-          "display": "High Tier 3 Crystal",
-          "tier_key": "ht3_crystal",
-          "level": "ht3",
-          "points": 10
-        },
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "High Tier 5 Mace",
-          "tier_key": "ht5_mace",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 18,
-      "crystal-retired": false,
-      "smp-retired": false,
-      "mace-retired": false
-    },
-    {
-      "username": "ulnafr",
-      "discord_id": "1084412771896147989",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "High Tier 5 Mace",
-          "tier_key": "ht5_mace",
-          "level": "ht5",
-          "points": 2
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        },
-        "axe": {
-          "display": "Low Tier 4 Axe",
-          "tier_key": "lt4_axe",
-          "level": "lt4",
-          "points": 3
-        },
-        "crystal": {
-          "display": "High Tier 4 Crystal",
-          "tier_key": "ht4_crystal",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 17,
-      "smp-retired": false,
-      "mace-retired": false,
-      "uhc-retired": false,
-      "axe-retired": false,
-      "crystal-retired": false
     },
     {
       "username": "Dentz__",
@@ -439,77 +318,26 @@
       "sword-retired": false
     },
     {
-      "username": "Nightanto",
-      "discord_id": "957615090646024192",
+      "username": "NexussNew",
+      "discord_id": "1181323273452126228",
       "region": "EU",
       "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "mace": {
-          "display": "Low Tier 3 Mace",
-          "tier_key": "lt3_mace",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 12,
-      "smp-retired": false,
-      "mace-retired": false
-    },
-    {
-      "username": "Twibs_",
-      "discord_id": "1284595043105247252",
-      "region": "NA",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 4 SMP",
-          "tier_key": "lt4_smp",
-          "level": "lt4",
-          "points": 3
-        },
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "uhc": {
-          "display": "Low Tier 3 UHC",
-          "tier_key": "lt3_uhc",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 12,
-      "smp-retired": false,
-      "mace-retired": false,
-      "uhc-retired": false
-    },
-    {
-      "username": "vintagers",
-      "discord_id": "975988942342082591",
-      "region": "AU/AS",
-      "tiers": {
-        "smp": {
-          "display": "High Tier 3 SMP",
-          "tier_key": "ht3_smp",
+        "crystal": {
+          "display": "High Tier 3 Crystal",
+          "tier_key": "ht3_crystal",
           "level": "ht3",
           "points": 10
         },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
           "level": "ht5",
           "points": 2
         }
       },
       "total_points": 12,
-      "smp-retired": false,
-      "uhc-retired": false
+      "crystal-retired": false,
+      "mace-retired": false
     },
     {
       "username": "Synxzi",
@@ -534,6 +362,42 @@
       "uhc-retired": false
     },
     {
+      "username": "ulnafr",
+      "discord_id": "1084412771896147989",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
+          "level": "ht5",
+          "points": 2
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        },
+        "axe": {
+          "display": "Low Tier 4 Axe",
+          "tier_key": "lt4_axe",
+          "level": "lt4",
+          "points": 3
+        },
+        "crystal": {
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 11,
+      "mace-retired": false,
+      "uhc-retired": false,
+      "axe-retired": false,
+      "crystal-retired": false
+    },
+    {
       "username": "Tagsa",
       "discord_id": "1355905588281999422",
       "region": "EU",
@@ -549,48 +413,26 @@
       "crystal-retired": false
     },
     {
-      "username": "superoive",
-      "discord_id": "1233175306827993139",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 8,
-      "smp-retired": false,
-      "uhc-retired": false
-    },
-    {
-      "username": "LemonIsFat",
-      "discord_id": "1470834507367190612",
-      "region": "EU",
+      "username": "Twibs_",
+      "discord_id": "1284595043105247252",
+      "region": "NA",
       "tiers": {
         "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        },
-        "smp": {
-          "display": "Low Tier 4 SMP",
-          "tier_key": "lt4_smp",
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
           "level": "lt4",
           "points": 3
+        },
+        "uhc": {
+          "display": "Low Tier 3 UHC",
+          "tier_key": "lt3_uhc",
+          "level": "lt3",
+          "points": 6
         }
       },
-      "total_points": 7,
+      "total_points": 9,
       "mace-retired": false,
-      "smp-retired": false
+      "uhc-retired": false
     },
     {
       "username": "evano09",
@@ -615,41 +457,19 @@
       "crystal-retired": false
     },
     {
-      "username": "straighteah",
-      "discord_id": "1287172259223572512",
-      "region": "NA",
+      "username": "Nightanto",
+      "discord_id": "957615090646024192",
+      "region": "EU",
       "tiers": {
-        "smp": {
-          "display": "High Tier 4 SMP",
-          "tier_key": "ht4_smp",
-          "level": "ht4",
-          "points": 4
-        },
         "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 7,
-      "smp-retired": false,
-      "mace-retired": false
-    },
-    {
-      "username": "SpideyMC_",
-      "discord_id": "1158613868982042625",
-      "region": "NA",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
           "level": "lt3",
           "points": 6
         }
       },
       "total_points": 6,
-      "smp-retired": false
+      "mace-retired": false
     },
     {
       "username": "ItzDanielGT",
@@ -727,9 +547,39 @@
       "sword-retired": false
     },
     {
+      "username": "LemonIsFat",
+      "discord_id": "1470834507367190612",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 4 Mace",
+          "tier_key": "ht4_mace",
+          "level": "ht4",
+          "points": 4
+        }
+      },
+      "total_points": 4,
+      "mace-retired": false
+    },
+    {
       "username": "StreetNinjaLumen",
       "discord_id": "1200845782195109952",
       "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 3,
+      "mace-retired": false
+    },
+    {
+      "username": "straighteah",
+      "discord_id": "1287172259223572512",
+      "region": "NA",
       "tiers": {
         "mace": {
           "display": "Low Tier 4 Mace",
@@ -770,6 +620,36 @@
       },
       "total_points": 3,
       "crystal-retired": false
+    },
+    {
+      "username": "vintagers",
+      "discord_id": "975988942342082591",
+      "region": "AU/AS",
+      "tiers": {
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 2,
+      "uhc-retired": false
+    },
+    {
+      "username": "superoive",
+      "discord_id": "1233175306827993139",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 2,
+      "uhc-retired": false
     },
     {
       "username": "Zyrqun",
