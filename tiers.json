@@ -585,21 +585,6 @@
       "crystal-retired": false
     },
     {
-      "username": "red3e1",
-      "discord_id": "1426237737870295194",
-      "region": "EU",
-      "tiers": {
-        "sword": {
-          "display": "High Tier 3 Sword",
-          "tier_key": "ht3_sword",
-          "level": "ht3",
-          "points": 10
-        }
-      },
-      "total_points": 10,
-      "sword-retired": false
-    },
-    {
       "username": "superoive",
       "discord_id": "1233175306827993139",
       "region": "EU",
@@ -746,6 +731,21 @@
       },
       "total_points": 6,
       "mace-retired": false
+    },
+    {
+      "username": "red3e1",
+      "discord_id": "1426237737870295194",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 3 Sword",
+          "tier_key": "lt3_sword",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6,
+      "sword-retired": false
     },
     {
       "username": "StreetNinjaLumen",
