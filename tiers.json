@@ -600,6 +600,28 @@
       "sword-retired": false
     },
     {
+      "username": "superoive",
+      "discord_id": "1233175306827993139",
+      "region": "EU",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 8,
+      "smp-retired": false,
+      "uhc-retired": false
+    },
+    {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
       "region": "EU",
@@ -679,21 +701,6 @@
       },
       "total_points": 6,
       "mace-retired": false
-    },
-    {
-      "username": "superoive",
-      "discord_id": "1233175306827993139",
-      "region": "EU",
-      "tiers": {
-        "smp": {
-          "display": "Low Tier 3 SMP",
-          "tier_key": "lt3_smp",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6,
-      "smp-retired": false
     },
     {
       "username": "darknezzri",
