@@ -799,6 +799,21 @@
       },
       "total_points": 1,
       "mace-retired": false
+    },
+    {
+      "username": "Yazorr",
+      "discord_id": "649252402272141332",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "Low Tier 5 Sword",
+          "tier_key": "lt5_sword",
+          "level": "lt5",
+          "points": 1
+        }
+      },
+      "total_points": 1,
+      "sword-retired": false
     }
   ]
 }
