@@ -637,6 +637,21 @@
       "mace-retired": false
     },
     {
+      "username": "SpideyMC_",
+      "discord_id": "1158613868982042625",
+      "region": "NA",
+      "tiers": {
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6,
+      "smp-retired": false
+    },
+    {
       "username": "ItzDanielGT",
       "discord_id": "1337991464566653038",
       "region": "NA",
