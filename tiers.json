@@ -585,6 +585,21 @@
       "crystal-retired": false
     },
     {
+      "username": "red3e1",
+      "discord_id": "1426237737870295194",
+      "region": "EU",
+      "tiers": {
+        "sword": {
+          "display": "High Tier 3 Sword",
+          "tier_key": "ht3_sword",
+          "level": "ht3",
+          "points": 10
+        }
+      },
+      "total_points": 10,
+      "sword-retired": false
+    },
+    {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
       "region": "EU",
