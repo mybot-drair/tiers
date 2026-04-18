@@ -583,6 +583,21 @@
       "sword-retired": false
     },
     {
+      "username": "vampice",
+      "discord_id": "1203392344842305547",
+      "region": "EU",
+      "tiers": {
+        "axe": {
+          "display": "Low Tier 3 Axe",
+          "tier_key": "lt3_axe",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6,
+      "axe-retired": false
+    },
+    {
       "username": "HannibalRoar",
       "discord_id": "518392015675981827",
       "region": "EU",
