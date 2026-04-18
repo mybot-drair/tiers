@@ -576,6 +576,21 @@
       "sword-retired": false
     },
     {
+      "username": "HannibalRoar",
+      "discord_id": "518392015675981827",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        }
+      },
+      "total_points": 6,
+      "mace-retired": false
+    },
+    {
       "username": "LemonIsFat",
       "discord_id": "1470834507367190612",
       "region": "EU",
