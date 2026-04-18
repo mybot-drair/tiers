@@ -71,13 +71,20 @@
           "tier_key": "lt3_uhc",
           "level": "lt3",
           "points": 6
+        },
+        "smp": {
+          "display": "Low Tier 3 SMP",
+          "tier_key": "lt3_smp",
+          "level": "lt3",
+          "points": 6
         }
       },
-      "total_points": 24,
+      "total_points": 30,
       "diapot-retired": false,
       "mace-retired": false,
       "sword-retired": false,
-      "uhc-retired": false
+      "uhc-retired": false,
+      "smp-retired": false
     },
     {
       "username": "new_note",
