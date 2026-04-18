@@ -681,6 +681,21 @@
       "uhc-retired": false
     },
     {
+      "username": "scandumb",
+      "discord_id": "1382002841354371213",
+      "region": "NA",
+      "tiers": {
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 2,
+      "uhc-retired": false
+    },
+    {
       "username": "Zyrqun",
       "discord_id": "1478123632466329703",
       "region": "EU",
