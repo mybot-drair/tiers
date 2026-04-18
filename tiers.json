@@ -405,6 +405,35 @@
       "crystal-retired": false
     },
     {
+      "username": "superoive",
+      "discord_id": "1233175306827993139",
+      "region": "EU",
+      "tiers": {
+        "uhc": {
+          "display": "High Tier 4 UHC",
+          "tier_key": "ht4_uhc",
+          "level": "ht4",
+          "points": 4
+        },
+        "mace": {
+          "display": "High Tier 4 Mace",
+          "tier_key": "ht4_mace",
+          "level": "ht4",
+          "points": 4
+        },
+        "axe": {
+          "display": "High Tier 5 Axe",
+          "tier_key": "ht5_axe",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 10,
+      "uhc-retired": false,
+      "mace-retired": false,
+      "axe-retired": false
+    },
+    {
       "username": "Tagsa",
       "discord_id": "1355905588281999422",
       "region": "EU",
@@ -440,28 +469,6 @@
       "total_points": 9,
       "mace-retired": false,
       "uhc-retired": false
-    },
-    {
-      "username": "superoive",
-      "discord_id": "1233175306827993139",
-      "region": "EU",
-      "tiers": {
-        "uhc": {
-          "display": "High Tier 4 UHC",
-          "tier_key": "ht4_uhc",
-          "level": "ht4",
-          "points": 4
-        },
-        "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        }
-      },
-      "total_points": 8,
-      "uhc-retired": false,
-      "mace-retired": false
     },
     {
       "username": "evano09",
