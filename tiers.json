@@ -87,6 +87,28 @@
       "smp-retired": false
     },
     {
+      "username": "new_note",
+      "discord_id": "918035630334824511",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 3 Mace",
+          "tier_key": "lt3_mace",
+          "level": "lt3",
+          "points": 6
+        },
+        "crystal": {
+          "display": "Low Tier 2 Crystal",
+          "tier_key": "lt2_crystal",
+          "level": "lt2",
+          "points": 20
+        }
+      },
+      "total_points": 26,
+      "mace-retired": false,
+      "crystal-retired": false
+    },
+    {
       "username": "Yrmog",
       "discord_id": "1412075879252754604",
       "region": "EU",
@@ -142,28 +164,6 @@
       "diapot-retired": false,
       "sword-retired": false,
       "axe-retired": false
-    },
-    {
-      "username": "new_note",
-      "discord_id": "918035630334824511",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        },
-        "crystal": {
-          "display": "Low Tier 2 Crystal",
-          "tier_key": "lt2_crystal",
-          "level": "lt2",
-          "points": 20
-        }
-      },
-      "total_points": 23,
-      "mace-retired": false,
-      "crystal-retired": false
     },
     {
       "username": "321revive",
