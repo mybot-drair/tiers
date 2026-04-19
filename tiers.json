@@ -478,6 +478,28 @@
       "uhc-retired": false
     },
     {
+      "username": "vampice",
+      "discord_id": "1203392344842305547",
+      "region": "EU",
+      "tiers": {
+        "axe": {
+          "display": "Low Tier 3 Axe",
+          "tier_key": "lt3_axe",
+          "level": "lt3",
+          "points": 6
+        },
+        "uhc": {
+          "display": "High Tier 5 UHC",
+          "tier_key": "ht5_uhc",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 8,
+      "axe-retired": false,
+      "uhc-retired": false
+    },
+    {
       "username": "evano09",
       "discord_id": "1091752610597449828",
       "region": "EU",
@@ -588,21 +610,6 @@
       },
       "total_points": 6,
       "sword-retired": false
-    },
-    {
-      "username": "vampice",
-      "discord_id": "1203392344842305547",
-      "region": "EU",
-      "tiers": {
-        "axe": {
-          "display": "Low Tier 3 Axe",
-          "tier_key": "lt3_axe",
-          "level": "lt3",
-          "points": 6
-        }
-      },
-      "total_points": 6,
-      "axe-retired": false
     },
     {
       "username": "HannibalRoar",
