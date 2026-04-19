@@ -109,63 +109,6 @@
       "crystal-retired": false
     },
     {
-      "username": "Yrmog",
-      "discord_id": "1412075879252754604",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 3 Mace",
-          "tier_key": "ht3_mace",
-          "level": "ht3",
-          "points": 10
-        },
-        "uhc": {
-          "display": "High Tier 5 UHC",
-          "tier_key": "ht5_uhc",
-          "level": "ht5",
-          "points": 2
-        },
-        "crystal": {
-          "display": "Low Tier 4 Crystal",
-          "tier_key": "lt4_crystal",
-          "level": "lt4",
-          "points": 3
-        },
-        "nethpot": {
-          "display": "Low Tier 5 Nethpot",
-          "tier_key": "lt5_nethpot",
-          "level": "lt5",
-          "points": 1
-        },
-        "diapot": {
-          "display": "Low Tier 4 Diapot",
-          "tier_key": "lt4_diapot",
-          "level": "lt4",
-          "points": 3
-        },
-        "sword": {
-          "display": "Low Tier 4 Sword",
-          "tier_key": "lt4_sword",
-          "level": "lt4",
-          "points": 3
-        },
-        "axe": {
-          "display": "High Tier 5 Axe",
-          "tier_key": "ht5_axe",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 24,
-      "mace-retired": false,
-      "uhc-retired": false,
-      "crystal-retired": false,
-      "nethpot-retired": false,
-      "diapot-retired": false,
-      "sword-retired": false,
-      "axe-retired": false
-    },
-    {
       "username": "321revive",
       "discord_id": "1268000099628351489",
       "region": "EU",
