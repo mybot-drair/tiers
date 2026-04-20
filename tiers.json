@@ -239,42 +239,6 @@
       "mace-retired": false
     },
     {
-      "username": "tajko99",
-      "discord_id": "829298897435492403",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 4 Mace",
-          "tier_key": "ht4_mace",
-          "level": "ht4",
-          "points": 4
-        },
-        "uhc": {
-          "display": "Low Tier 4 UHC",
-          "tier_key": "lt4_uhc",
-          "level": "lt4",
-          "points": 3
-        },
-        "crystal": {
-          "display": "High Tier 4 Crystal",
-          "tier_key": "ht4_crystal",
-          "level": "ht4",
-          "points": 4
-        },
-        "sword": {
-          "display": "High Tier 5 Sword",
-          "tier_key": "ht5_sword",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 13,
-      "mace-retired": false,
-      "uhc-retired": false,
-      "crystal-retired": false,
-      "sword-retired": false
-    },
-    {
       "username": "NexussNew",
       "discord_id": "1181323273452126228",
       "region": "EU",
@@ -295,6 +259,42 @@
       "total_points": 12,
       "crystal-retired": false,
       "mace-retired": false
+    },
+    {
+      "username": "tajko99",
+      "discord_id": "829298897435492403",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        },
+        "uhc": {
+          "display": "Low Tier 4 UHC",
+          "tier_key": "lt4_uhc",
+          "level": "lt4",
+          "points": 3
+        },
+        "crystal": {
+          "display": "High Tier 4 Crystal",
+          "tier_key": "ht4_crystal",
+          "level": "ht4",
+          "points": 4
+        },
+        "sword": {
+          "display": "High Tier 5 Sword",
+          "tier_key": "ht5_sword",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 12,
+      "mace-retired": false,
+      "uhc-retired": false,
+      "crystal-retired": false,
+      "sword-retired": false
     },
     {
       "username": "Synxzi",
