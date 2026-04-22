@@ -652,6 +652,28 @@
       "crystal-retired": false
     },
     {
+      "username": "Hulkjens",
+      "discord_id": "824297992294498305",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
+          "level": "ht5",
+          "points": 2
+        },
+        "crystal": {
+          "display": "Low Tier 5 Crystal",
+          "tier_key": "lt5_crystal",
+          "level": "lt5",
+          "points": 1
+        }
+      },
+      "total_points": 3,
+      "mace-retired": false,
+      "crystal-retired": false
+    },
+    {
       "username": "Noooaahhh",
       "discord_id": "1408842139655340182",
       "region": "EU",
@@ -699,21 +721,6 @@
     {
       "username": "Zyrqun",
       "discord_id": "1478123632466329703",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "High Tier 5 Mace",
-          "tier_key": "ht5_mace",
-          "level": "ht5",
-          "points": 2
-        }
-      },
-      "total_points": 2,
-      "mace-retired": false
-    },
-    {
-      "username": "Hulkjens",
-      "discord_id": "824297992294498305",
       "region": "EU",
       "tiers": {
         "mace": {
