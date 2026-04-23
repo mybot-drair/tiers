@@ -674,21 +674,6 @@
       "crystal-retired": false
     },
     {
-      "username": "Noooaahhh",
-      "discord_id": "1408842139655340182",
-      "region": "EU",
-      "tiers": {
-        "mace": {
-          "display": "Low Tier 4 Mace",
-          "tier_key": "lt4_mace",
-          "level": "lt4",
-          "points": 3
-        }
-      },
-      "total_points": 3,
-      "mace-retired": false
-    },
-    {
       "username": "vintagers",
       "discord_id": "975988942342082591",
       "region": "AU/AS",
@@ -721,6 +706,21 @@
     {
       "username": "Zyrqun",
       "discord_id": "1478123632466329703",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "High Tier 5 Mace",
+          "tier_key": "ht5_mace",
+          "level": "ht5",
+          "points": 2
+        }
+      },
+      "total_points": 2,
+      "mace-retired": false
+    },
+    {
+      "username": "Noooaahhh",
+      "discord_id": "1408842139655340182",
       "region": "EU",
       "tiers": {
         "mace": {
