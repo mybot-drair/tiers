@@ -674,6 +674,21 @@
       "crystal-retired": false
     },
     {
+      "username": "LastObsidian",
+      "discord_id": "1417902307944693765",
+      "region": "EU",
+      "tiers": {
+        "mace": {
+          "display": "Low Tier 4 Mace",
+          "tier_key": "lt4_mace",
+          "level": "lt4",
+          "points": 3
+        }
+      },
+      "total_points": 3,
+      "mace-retired": false
+    },
+    {
       "username": "vintagers",
       "discord_id": "975988942342082591",
       "region": "AU/AS",
